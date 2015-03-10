@@ -1,1 +1,13 @@
+services\UploadFileService.class
+util\Constants.class
+util\Constants$Pagination.class
+command\SearchSongCommand.class
+command\CreateSongCommand.class
+command\UpdateSongCommand.class
+model\Song.class
+command\GetSongCommand.class
 launch\Main.class
+connectionprovider\ConnectionProvider.class
+command\ListSongsCommand.class
+command\DeleteSongCommand.class
+services\Services.class
